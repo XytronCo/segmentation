@@ -110,7 +110,7 @@ Tensorflow-enet
 
     -   Test.sh 에 있는 예시 코드를 참고
 
-    -   test 결과로 다음과 같은 결과물들을 얻을 수 있다.
+    -   test 결과로 다음과 같은 결과물들을 얻을 수 있다.(원본 이미지와 테스팅 결과 이미지)
+![image](https://user-images.githubusercontent.com/44758482/49780628-b58f1980-fd52-11e8-85a4-037c4aafa087.png)
+![image](https://user-images.githubusercontent.com/44758482/49780617-a740fd80-fd52-11e8-9dde-3dc2d1eaf8f7.png)
 
-![](https://user-images.githubusercontent.com/44761194/49774506-57553d00-fd38-11e8-9615-fdfb1d7e7f65.png)
-![](https://user-images.githubusercontent.com/44761194/49774511-5ae8c400-fd38-11e8-8af5-b1e2cd3c4623.png)
