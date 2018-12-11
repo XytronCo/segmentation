@@ -3,8 +3,6 @@ Tensorflow Enet
 
 [[개요]](#개요)
 
-[[문서 개요]](#문서-개요)
-
 [[Enet 사용 환경 셋업]](#enet-사용-환경-셋업)
 
 [[enet 다운로드]](#enet-다운로드)
@@ -24,11 +22,7 @@ Tensorflow Enet
 개요
 ====
 
-문서 개요
----------
-
--   본 문서는 Tensorflow Enet을 사용하기 위한 환경설정 방법 및 사용
-    가이드 문서이다.
+-   Tensorflow Enet을 사용하기 위한 환경설정 방법과 사용법을 설명한다.
 
 -   Enet은 Real-Time Semantic Segmentation을 가능하게 하는 딥 러닝
     네트워크 모델이다.
