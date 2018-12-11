@@ -46,6 +46,8 @@ Enet 사용 환경 셋업
 
 -   git clone https://github.com/kwotsin/TensorFlow-ENet.git
 
+-  eNet을 소스코드 위치에서 https://drive.google.com/file/d/1NGg118IhjK1kXGdDW7TDHLfFoPfogDhe/view?usp=sharing 를 다운받아서
+   압축을 해제한다.
 tensorflow 설치(Jetson tx2 board)
 ---------------------------------
 
